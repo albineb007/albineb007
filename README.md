@@ -8,7 +8,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Twitter Badge](https://img.shields.io/badge/-albineb-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/albineb)](https://x.com/albineb) [![Linkedin Badge](https://img.shields.io/badge/-albineb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/albin-eb/)](https://www.linkedin.com/in/albin-eb-13850624b/)
+[![Twitter Badge](https://img.shields.io/badge/-albin_eb-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/albin_eb)](https://x.com/albin_eb) [![Linkedin Badge](https://img.shields.io/badge/-albineb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/albin-eb/)](https://www.linkedin.com/in/albin-eb-13850624b/)
 [![Gmail Badge](https://img.shields.io/badge/-albineb007@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:albineb007@gmail.com)](mailto:albineb007@gmail.com)
 
 Hi! I'm Albin EB . Based in Bangalore, I'm a web developer with a passion for both front-end and back-end technologies. My interests extend to data science, where I enjoy analyzing data, creating visualizations, and building models to automate complex tasks. Adept at utilizing the latest technologies, I strive to build elegant and efficient web platforms.
