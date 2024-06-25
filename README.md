@@ -40,9 +40,11 @@ Hi! I'm Albin EB . Based in Bangalore, I'm a web developer with a passion for bo
 
 
 <a href="https://tedxclaretcollegebangalore.com/">TedXclaretcollege</a>
+<p>We built the TEDxClaretCollege website - albineb007, Jagadeesh7400, and V_Anil_Kumar.  The site uses WordPress with WooCommerce plugins and Elementor for a beautiful design and features like ticketing, comments, and detailed visitor tracking. We exported the data for analysis in CSV or XLSX formats.  It was a fun project and we were selected to be core members of TEDxClaretCollege!</p>
 <br>
 <br>
 <a href="https://technovation-2k24.github.io/Technovation/">Technovation2024</a>
+<P>We built the website for Technovation-2k24, an inter-college competition!  @albineb007, @Jagadeesh7400 and @Shadan-Jamal teamed up to create a website for inter-college competition for Computer Science Department of St.Claret College . We used our skills to build a great website for the event, and everyone enjoyed the process!</P>
 
 
 ## ✖️➕ Data Science Projects
