@@ -24,16 +24,18 @@ Hi! I'm Albin EB . Based in Bangalore, I'm a web developer with a passion for bo
 
 - Front-end development using **HTML, Javascript, CSS, Bootstrap**.
 - Search Engine Optimization.
-- Backend development using **Flask, Django**.
-- DBMS-SQL,PostgreSQL.
+- Tableau & PowerBI.
+- Microsoft **Excel,GoogleSheet-Analysis,Dashboard's,Automations**.
+- **DBeaver, Oracle Server and ElephantSQL**.
+- **Anaconda - Spyder, Jupyter Notebook**.
+- **DBMS-SQL,PostgreSQL**.
 - Robust full-stack system design implementation.
+- **Wordpress, Wix, Shopify**.
 - Creating scalable cloud architecture using **AWS Cloud**.
 - Solving Data structure and algorithm questions in **C,Python**.
 - Learning React.
-- Tableau & PowerBI.
-- Microsoft Excel,GoogleSheet-Analysis,Dashboard's,Automations.
-- DBeaver, Oracle Server and ElephantSQL.
-- Anaconda - Spyder, Jupyter Notebook.
+- Learning Frontend & Backend development using **Flask, Django**.
+
 
 
 ## 📽️ Full Stack Projects
