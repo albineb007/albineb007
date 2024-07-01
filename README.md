@@ -62,6 +62,8 @@ Hi! I'm Albin EB . Based in Bangalore, I'm a web developer with a passion for bo
 <a href="https://app.powerbi.com/Redirect?action=openreport&context=Annotate&ctid=30ec6afb-c35a-484d-890f-40841c730da6&pbi_source=mobile_android&groupObjectId=93a8988c-1c23-4c43-8965-75f38ef64388&appId=&reportObjectId=f3cca142-1819-4dff-a6b6-c63d7a75721e&reportPage=ReportSection&bookmarkGuid=3109ee3b-0dcc-4d4f-b29f-b132418d87b6&fullScreen=0" target="_blank"> AirIndia Dashboard </a>
 
 <a href="https://app.powerbi.com/Redirect?action=openreport&context=Annotate&ctid=30ec6afb-c35a-484d-890f-40841c730da6&pbi_source=mobile_android&groupObjectId=93a8988c-1c23-4c43-8965-75f38ef64388&appId=&reportObjectId=0b0f1948-8ce5-400d-8e1f-a3e5a1343346&reportPage=ReportSection&bookmarkGuid=b08494c0-89de-4f8f-9caa-4d41d78618e1&fullScreen=0" target="_blank"> Public Social Media Consumptiion Report </a>
+<br>
+<p>It Gave Me great Insight's on Social Media Usage and their Limitations</p>
 
 <br>
 <br>
