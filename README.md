@@ -42,7 +42,7 @@ Hi! I'm Albin EB . Based in Bangalore, I'm a web developer with a passion for bo
 
 
 <a href="https://tedxclaretcollegebangalore.com/">TedXclaretcollege</a>
-<p>We built the TEDxClaretCollege website - albineb007, Jagadeesh7400, and V_Anil_Kumar.  The site uses WordPress with WooCommerce plugins and Elementor for a beautiful design and features like ticketing, comments, and detailed visitor tracking. We exported the data for analysis in CSV or XLSX formats.  It was a fun project and we were selected to be core members of TEDxClaretCollege!</p>
+<p>We built the TEDxClaretCollege website - <a href="https://github.com/albineb007"> @albineb007</a> , <a href="https://github.com/Jagadeesh7400">@Jagadeesh7400</a> and <a href="https://www.linkedin.com/in/v-anil-kumar-855775265/"> @V Anil Kumar</a>   The site uses WordPress with WooCommerce plugins and Elementor for a beautiful design and features like ticketing, comments, and detailed visitor tracking. We exported the data for analysis in CSV or XLSX formats.  It was a fun project and we were selected to be core members of TEDxClaretCollege!</p>
 <br>
 <br>
 <a href="https://technovation-2k24.github.io/Technovation/">Technovation2024</a>
