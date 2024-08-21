@@ -30,7 +30,7 @@ Hi! I'm Albin EB . Based in Bangalore, I'm a web developer with a passion for bo
 - **Anaconda - Spyder, Jupyter Notebook**.
 - **DBMS-SQL,PostgreSQL**.
 - Robust full-stack system design implementation.
-- **Wordpress, Wix, Shopify**.
+- **Wordpress, Wix, Shopify, Webflow ,Dora**.
 - Creating scalable cloud architecture using **AWS Cloud**.
 - Solving Data structure and algorithm questions in **C,Python**.
 - Learning React.
