@@ -20,10 +20,7 @@ Hi! I'm Albin EB . Based in Bangalore, I'm a web developer with a passion for bo
 * Internshala Student Partner-16.
 
 
-## ⚡Languages & Technologies
-
-
-## 🚀 **Technical Arsenal**
+## ⚡Skills & Technologies
 
 - 💻 **Programming & Web Tech:**  
   `Python`, `HTML5`, `CSS3`, `SQL`.
