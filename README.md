@@ -67,4 +67,4 @@ Hi! I'm Albin EB . Based in Bangalore, I'm a web developer with a passion for bo
 
 <br>
 <br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albineb007&" alt="albineb007" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albineb007&" alt="albineb007"  /></p>
